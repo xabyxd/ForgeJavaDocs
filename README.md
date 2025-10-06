@@ -8,3 +8,4 @@
 | 1.9.4   | 1.9.4-12.17.0.2051  | [Javadoc](https://skmedix.github.io/ForgeJavaDocs/javadoc/forge/1.9.4-12.17.0.2051/)  |
 | 1.8.9   | 1.8.9-11.15.1.2318  | [Javadoc](https://skmedix.github.io/ForgeJavaDocs/javadoc/forge/1.8.9-11.15.1.2318/)  |
 | 1.7.10  | 1.7.10-10.13.4.1614 | [Javadoc](https://skmedix.github.io/ForgeJavaDocs/javadoc/forge/1.7.10-10.13.4.1614/) |
+| 1.5.2   | 1.5.2-7.8.1.738     | [Javadoc](https://skmedix.github.io/ForgeJavaDocs/javadoc/forge/1.5.2-7.8.1.738/)     |
